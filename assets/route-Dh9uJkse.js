@@ -1,1 +1,0 @@
-import{t as e}from"./authenticated-layout-CKg8I5Cg.js";var t=e;export{t as component};
