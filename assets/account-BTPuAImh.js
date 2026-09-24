@@ -1,1 +1,0 @@
-import{a as e,t}from"./jsx-runtime-DWSWI4JT.js";import{r as n,t as r}from"./account-form-Czw_bQGa.js";import{t as i}from"./content-section-CLDKHPSu.js";var a=e(t(),1);function o(){return(0,a.jsx)(i,{title:`個人帳號`,desc:`更新個人資料、偏好設定與登入密碼。`,children:(0,a.jsxs)(`div`,{children:[(0,a.jsx)(r,{}),(0,a.jsx)(n,{})]})})}var s=o;export{s as component};
